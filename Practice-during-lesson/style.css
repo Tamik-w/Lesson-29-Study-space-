@@ -1,0 +1,11 @@
+#number-box {
+    width: 58px;
+    color: red;
+    transition: 0.3s;
+    cursor: default;
+}
+
+#number-box:hover {
+    color: white;
+    background-color: black;
+}
